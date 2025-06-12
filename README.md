@@ -12,9 +12,6 @@ A graphical implementation of Texas Hold'em Poker using Python and Pygame.
 - **User interface:** Buttons for Fold, Check/Call, Bet/Raise, All-in, and Equity. Text input for custom raise amounts.
 - **Game flow:** Blinds, betting rounds (pre-flop, flop, turn, river), and automatic game-over handling.
 
-## Screenshots
-
-*(Add screenshots of the game window here if available)*
 
 ## Getting Started
 
